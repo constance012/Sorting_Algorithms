@@ -1,1 +1,1 @@
-Sorting algorithms implement in C++.
+Sorting algorithms implemented in C++.
